@@ -57,7 +57,7 @@ Proporcionar insights significativos y recomendaciones basadas en datos para mej
 
 Siguiendo el esquema como referencia se solicitó elaborar ETL, EDA y dashboard siguiendo una estructura lógica que abarca la compresión del problema hasta la presentación de los hallazgos y recomendaciones para este.
 
-## **Analitica de Información de Proyecto**
+## **Analítica de Información de Proyecto**
 En esta ocasión, se dispone de Datasets importantes para nuestro proyecto. Hemos empleado un conjunto de datos que detalla información sobre víctimas fatales y lesionados por parte del Observatorio de Movilidad y Seguridad Vial (OMSV) de la Ciudad Autónoma de Buenos Aires (CABA). Los dos conjuntos de datos asociados se encuentran almacenados en la carpeta Dataset, la cual se presenta a continuación:
 
 - **homicidios.xlsx**: Alberga información detallada sobre los accidentes fatales ocurridas en la Ciudad Autónoma de Buenos Aires . La información incluye aspectos clave como la dirección, fecha, víctima, roles, vehículos, gravedad, etc. 
