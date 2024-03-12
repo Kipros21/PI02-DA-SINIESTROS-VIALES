@@ -1,10 +1,11 @@
 <h1 align=center> PROYECTO INDIVIDUAL N°02 - DA SINIESTROS VIALES </h1>
 
 # **Data Analytics**
-![image](https://github.com/Kipros21/PI01-MLOps-STEAMGAMES/assets/142346448/1fa79a4f-aa53-4c03-a88d-c1167568ed58)
+![image](https://github.com/Kipros21/PI02-DA-SINIESTROS-VIALES/assets/142346448/ca6316df-bdef-4900-8b6b-070d29b4bfac)
 
 ## **Contexto**
-![image](https://github.com/Kipros21/PI01-MLOps-STEAMGAMES/assets/142346448/0f48f3f3-95c2-4c53-b579-d13279b5d0b0)
+![image](https://github.com/Kipros21/PI02-DA-SINIESTROS-VIALES/assets/142346448/f725c5c5-aa59-4be8-b7a5-a237a298fc8d)
+
 
 En Argentina, la alarmante cifra de aproximadamente 4,000 muertes anuales por siniestros viales demanda medidas urgentes y coordinadas. Aunque se han logrado avances en la reducción de accidentes en algunas regiones, los informes del Sistema Nacional de Información Criminal revelan que entre 2018 y 2022 hubo 19,630 víctimas fatales en todo el país, equivalente a 11 personas por día.
 
@@ -12,7 +13,7 @@ La magnitud del problema se destaca aún más al comparar la probabilidad de mor
 
 Para abordar este desafío, es esencial implementar una estrategia integral:
 
-- **Educación Vial**: Desarrollar programas educativos desde la infancia, enfocados en la importancia del respeto a las normas de tráfico y la      responsabilidad individual.
+- **Educación Vial**: Desarrollar programas educativos desde la infancia, enfocados en la importancia del respeto a las normas de tráfico y la responsabilidad individual.
 
 - **Concientización Nacional**: Lanzar campañas de concientización a nivel nacional, destacando las consecuencias de los siniestros viales y promoviendo conductas seguras.
 
@@ -51,7 +52,8 @@ En este proyecto, se simula el papel de un Analista de Datos que integra el equi
 Proporcionar insights significativos y recomendaciones basadas en datos para mejorar la comprensión de la movilidad y la seguridad vial en la ciudad. A través de la recopilación, procesamiento y análisis de datos relevantes, nuestro equipo buscará identificar patrones, tendencias y áreas de mejora en el contexto del tráfico y la seguridad vial.
 
 ## **Esquema de Proyecto**
-![image](https://github.com/Kipros21/PI01-MLOps-STEAMGAMES/assets/142346448/8dbc7518-4207-492d-a8bd-a6bff69459aa)
+![image](https://github.com/Kipros21/PI02-DA-SINIESTROS-VIALES/assets/142346448/df3b0a4f-51cd-45d8-a6af-610c8605fd64)
+
 
 Siguiendo el esquema como referencia se solicito elaborar ETL, EDA y dashboard siguiendo una estructura lógica que abarca la compresión del problema hasta la presentación de los hallazgos y recomendaciones para este.
 
@@ -60,7 +62,7 @@ En esta ocasión, se dispone de Datasets importantes para nuestro proyecto. Hemo
 
 - **homicidios.xlsx**: Alberga información detallada sobre los accidentes fatales ocurridas en la Ciudad Autónoma de Buenos Aires . La información incluye aspectos clave como el dirección, fecha, victima, roles, vehiculos, gravedad, etc. 
 
-- **lesiones.xlsx**: Alberga información detallada sobre los lesiones ocurridas a las víctimas en la Ciudad Autónoma de Buenos Aires . La información incluye aspectos clave como el dirección, fecha, victima, roles, vehiculos, gravedad, etc. 
+- **lesiones.xlsx**: Alberga información detallada sobre las lesiones ocurridas a las víctimas en la Ciudad Autónoma de Buenos Aires . La información incluye aspectos clave como el dirección, fecha, victima, roles, vehiculos, gravedad, etc. 
 
 ## **Problematica del Proyecto**
 Los siniestros viales, también conocidos como accidentes de tráfico, son eventos que ocurren en la vía pública y pueden involucrar uno o varios vehículos, resultando en daños materiales y, en casos más graves, heridos o pérdidas humanas. Estos incidentes pueden tener diversas causas, como colisiones entre automóviles, motocicletas, bicicletas o peatones, así como atropellos, choques con objetos fijos o caídas de vehículos.
@@ -151,7 +153,8 @@ Presentamos y explicamos los Indicadores Clave de Rendimiento (KPIs) que se han 
     $\text{Tasa de homicidios en las avenidas} = \frac{\text{Número de accidentes mortales con víctimas ocurridas en avenidas}}{\text{Total de la población}}·100000$
 
     **Resultado**:El objetivo de reducir en un 10% la tasa de homicidios en las avenidas no se cumplió. La tasa de homicidios aumentó en el año 2021, alcanzando **2.27**, lo que representa un aumento respecto al valor del año anterior. Este resultado destaca la importancia de revisar y fortalecer las medidas de seguridad específicas para las avenidas en la Ciudad Autónoma de Buenos Aires.
-
+    
+![image](https://github.com/Kipros21/PI02-DA-SINIESTROS-VIALES/assets/142346448/3ff7d591-928e-48a0-a25b-3682c13efb4d)
 
 ## **Insights**
 Resaltamos las percepciones y conocimientos más profundos obtenidos durante el análisis de datos. Presentamos insights clave que proporcionan una comprensión más completa y valiosa de los patrones, tendencias o relaciones identificadas en los datos. Es importante comunicar estos insights de manera clara y concisa, enfocándote en cómo pueden influir en nuestra toma de decisiones. Algunos de los Insights son:
