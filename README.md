@@ -55,16 +55,16 @@ Proporcionar insights significativos y recomendaciones basadas en datos para mej
 ![image](https://github.com/Kipros21/PI02-DA-SINIESTROS-VIALES/assets/142346448/df3b0a4f-51cd-45d8-a6af-610c8605fd64)
 
 
-Siguiendo el esquema como referencia se solicito elaborar ETL, EDA y dashboard siguiendo una estructura lógica que abarca la compresión del problema hasta la presentación de los hallazgos y recomendaciones para este.
+Siguiendo el esquema como referencia se solicitó elaborar ETL, EDA y dashboard siguiendo una estructura lógica que abarca la compresión del problema hasta la presentación de los hallazgos y recomendaciones para este.
 
 ## **Analitica de Información de Proyecto**
 En esta ocasión, se dispone de Datasets importantes para nuestro proyecto. Hemos empleado un conjunto de datos que detalla información sobre víctimas fatales y lesionados por parte del Observatorio de Movilidad y Seguridad Vial (OMSV) de la Ciudad Autónoma de Buenos Aires (CABA). Los dos conjuntos de datos asociados se encuentran almacenados en la carpeta Dataset, la cual se presenta a continuación:
 
-- **homicidios.xlsx**: Alberga información detallada sobre los accidentes fatales ocurridas en la Ciudad Autónoma de Buenos Aires . La información incluye aspectos clave como el dirección, fecha, victima, roles, vehiculos, gravedad, etc. 
+- **homicidios.xlsx**: Alberga información detallada sobre los accidentes fatales ocurridas en la Ciudad Autónoma de Buenos Aires . La información incluye aspectos clave como el dirección, fecha, víctima, roles, vehículos, gravedad, etc. 
 
-- **lesiones.xlsx**: Alberga información detallada sobre las lesiones ocurridas a las víctimas en la Ciudad Autónoma de Buenos Aires . La información incluye aspectos clave como el dirección, fecha, victima, roles, vehiculos, gravedad, etc. 
+- **lesiones.xlsx**: Alberga información detallada sobre las lesiones ocurridas a las víctimas en la Ciudad Autónoma de Buenos Aires . La información incluye aspectos clave como el dirección, fecha, víctima, roles, vehículos, gravedad, etc. 
 
-## **Problematica del Proyecto**
+## **Problemática del Proyecto**
 Los siniestros viales, también conocidos como accidentes de tráfico, son eventos que ocurren en la vía pública y pueden involucrar uno o varios vehículos, resultando en daños materiales y, en casos más graves, heridos o pérdidas humanas. Estos incidentes pueden tener diversas causas, como colisiones entre automóviles, motocicletas, bicicletas o peatones, así como atropellos, choques con objetos fijos o caídas de vehículos.
 
 La gravedad de un accidente puede agravarse si no se aborda adecuadamente. El uso correcto de medidas preventivas, como el ajuste del cinturón de seguridad o el uso de casco en motocicletas o bicicletas, puede ser crucial para reducir la gravedad de las consecuencias.
