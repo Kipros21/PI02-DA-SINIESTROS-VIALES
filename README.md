@@ -60,9 +60,9 @@ Siguiendo el esquema como referencia se solicitó elaborar ETL, EDA y dashboard 
 ## **Analitica de Información de Proyecto**
 En esta ocasión, se dispone de Datasets importantes para nuestro proyecto. Hemos empleado un conjunto de datos que detalla información sobre víctimas fatales y lesionados por parte del Observatorio de Movilidad y Seguridad Vial (OMSV) de la Ciudad Autónoma de Buenos Aires (CABA). Los dos conjuntos de datos asociados se encuentran almacenados en la carpeta Dataset, la cual se presenta a continuación:
 
-- **homicidios.xlsx**: Alberga información detallada sobre los accidentes fatales ocurridas en la Ciudad Autónoma de Buenos Aires . La información incluye aspectos clave como el dirección, fecha, víctima, roles, vehículos, gravedad, etc. 
+- **homicidios.xlsx**: Alberga información detallada sobre los accidentes fatales ocurridas en la Ciudad Autónoma de Buenos Aires . La información incluye aspectos clave como la dirección, fecha, víctima, roles, vehículos, gravedad, etc. 
 
-- **lesiones.xlsx**: Alberga información detallada sobre las lesiones ocurridas a las víctimas en la Ciudad Autónoma de Buenos Aires . La información incluye aspectos clave como el dirección, fecha, víctima, roles, vehículos, gravedad, etc. 
+- **lesiones.xlsx**: Alberga información detallada sobre las lesiones ocurridas a las víctimas en la Ciudad Autónoma de Buenos Aires . La información incluye aspectos clave como la dirección, fecha, víctima, roles, vehículos, gravedad, etc. 
 
 ## **Problemática del Proyecto**
 Los siniestros viales, también conocidos como accidentes de tráfico, son eventos que ocurren en la vía pública y pueden involucrar uno o varios vehículos, resultando en daños materiales y, en casos más graves, heridos o pérdidas humanas. Estos incidentes pueden tener diversas causas, como colisiones entre automóviles, motocicletas, bicicletas o peatones, así como atropellos, choques con objetos fijos o caídas de vehículos.
